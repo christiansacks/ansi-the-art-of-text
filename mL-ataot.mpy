@@ -11,7 +11,7 @@ KEY_TAB      = chr(9)
 KEY_LEFT     = chr(75)
 KEY_RIGHT    = chr(77)
 
-maxSlide     = 10
+maxSlide     = 12
 
 
 def drawSlide(i):

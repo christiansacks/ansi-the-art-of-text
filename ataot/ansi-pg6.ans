@@ -1,23 +1,22 @@
-|PO
-[40m[2J[45C[0;1;32mÚÂ¿ ¿ Ú ÂÄ¿[2H[46C³  ÃÄ´ Ã´[3H[46CÁ  Ù À Á[s
-[uÄÙ[4H[14C[36mÉÍÍÍÍÍÍÍÍÍÍÍ»    [32mÂÄ¿¿ ÚÚÄ¿ÚÂ¿ÚÄ¿ÚÄ¿ÂÄ¿ÚÄ¿ ÂÄ¿[s
-[u¿ Ú ÂÄ¿ÂÄ¿ÚÄ¿[5H[14C[36mº[0;30mÛ[1;37mÛÛÛÛÛÛÛÛÛ [36mº    [s
-[u[32mÃÄÙÃÄ´³ ³ ³ ³ ³³Ú¿ÃÂÙÃÄ´ ÃÄÙÃÄ´ Ã´ ÃÂÙÀÄ¿[6H[14C[36mº[s
-[u[0;30mÛ[1;37mÛÛÛÛÛÛÛÛÛ [36mº    [32mÙ  Ù ÀÀÄÙ Á ÀÄÙÀÄÙÙÀ Ù À Ù[s
-[u  Ù À ÁÄÙÙÀ ÀÄÙ[7H[14C[36mº[0;30mÛ[1;37mÛÛÛÛÛÛÛÛÛ [36mº    [s
-[u[32mÂÄ¿ ÂÄ¿ÚÂ¿Â ÂÚÄ¿ÂÄ¿¿Ú[8H[14C[36mº[0;30mÛ[1;37mÛÛÛÛÛÛÛÛÛ [s
-[u[36mº    [32m³ ³ Ã´  ³ ³ ³³ ³ÃÂÙÃÁ¿[5CBULLETIN BOARD[9H[14C[s
-[u[36mÈÍ» [5;31mÛ Û Û [0;1;36mÉÍ¼    [32mÙ À ÁÄÙ Á ÀÁÙÀÄÙÙÀ Ù À[s
-[u[8CSERVICE[10H[16C[36mº  ÉÍ»  º[11H[8CÜÜÛÜÜ   ÈËÍ¼ ÈÍË¼  ÛËÍ[s
-[uÛÍ»[12H    É[0;36mÛÛÛÛÛÛÛÛÛÛÛ[1mÛÈÍÍÍÍÍ¼Û[0;36mÛÛÛÛ[1mºÛº[s
-[u[0;36mÛÛÛÛ[1m»[13H    º°°°°±±±²²²²²ÛÛÛÛÛÛÛ²²²²²±±±°°°°º  [s
-[u[0;33mRunning on : [1;37mWILDCAT! (reg.)[14H    [36mÈ°°°°±±±²²[s
-[u²²ÛÛß[34mÜÛÜ[36mßÛÛ²²²²±±±°°°°¼  [0;33mPhone Number : [1;37m(7[s
-[u18) 876-7251[15H[5C[36m°°°°±±±²²²ÛÛÛ[34mÛÛ ÛÛ[36mÛÛÛ²²²±±±°°°[s
-[u°   [0;33mTimings : [1;37m24 Hours 7 Days ![16H[5C[36m°°°°±±±[s
-[u²²²²ÛÛÜ[34mßÛß[36mÜÛÛ²²²²±±±°°°°   [0;33mLocation : [1;37mStat[s
-[uen Island, NY.[17H[5C[36m°°°°±±±²²²²²ÛÛÛÛÛÛÛ²²²²²±±±°°°°   [s
-[u[0;33mWith [1;37m110 Megs [0;33mOn-Line ![18H[5C[36mßßßßßßßß[s
-[ußßßßßß[1mßßß[0;36mßßßßßßßßßßßßßß[19H[20H[5C[1;33mA meeting p[s
-[ulace for photographers and other interest groups ![21H[22H[5CFi[s
-[ules, Doors, Messages etc etc etc !!![23H[0m
+[0m
+[19C[1m°±²ÛßßßßßÛ  °±²ÛßßßßßÛ  °±²Ûßßßßßß  °±²Û[30m±°
+[19C[37m°±²Û[30m²±[37mÜÜÜÛ  °±²Û[30m²±°  [37mÛ  °±²ÛÜÜÜÜÜÜ  °±²Û[30m±°
+[19C[37m°±²Û[30m²±°  [37mÛ  °±²Û[30m²±°  [37mÛ      [30m²±°  [37mÛ  °±²Û[30m±°
+[19C[37m°±²Û[30m²±°  [37mÛ  °±²Û[30m²±°  [37mÛ  °±²Û[30m²±°  [37mÛ  °±²Û[30m±°
+[19C[37m°±²Û[30m²±°  [37mÛ  °±²Û[30m²±°  [37mÛ  °±²ÛÜÜÜÜÜÛ  °±²Û[30m±°
+
+[22Cfrom en.wikipedia.org/wiki/ANSI_art
+
+
+[33mANSI [0;36mart is a computer art form that was widely used at one time on bulletin
+board systems. It is similar to [1;33mASCII [0;36mart, but constructed from a larger set of
+256 letters, numbers, and symbols  all codes found in [1;37mIBM code page 437[0;36m,
+often referred to as extended [1;33mASCII [0;36mand used in MS-DOS and Unix[1]
+environments.
+
+[1;33mANSI [0;36mart also contains special [1;33mANSI [0;36mescape sequences that color text with the
+16 foreground and 8 background colours offered by [1;32mANSI.SYS[0;36m, an MS-DOS device
+driver loosely based upon the [1;33mANSI [0;36mX3.64 standard for text terminals. Some [1;33mANSI
+[0;36martists take advantage of the cursor control sequences within [1;33mANSI [0;36mX3.64 in
+order to create animations, commonly referred to as ANSImations. ANSI art and
+text files which incorporate [1;33mANSI [0;36mcodes carry the de facto .ANS file extension.
