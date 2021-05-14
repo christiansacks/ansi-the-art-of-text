@@ -6,7 +6,7 @@ Create menu item like;
 
 ```
 Command    │ (GY) Execute Python Script
-Data       │ se-tech                   
+Data       │ mL-ataot
 Access     │                           
 Grid Event │ Selected                  
 ```
