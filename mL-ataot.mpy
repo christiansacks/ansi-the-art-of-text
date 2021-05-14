@@ -1,0 +1,59 @@
+from mystic_bbs import *
+
+authorName   = "Christian Sacks"
+authorHandle = "MeaTLoTioN"
+
+KEY_UP       = chr(72)       # Some keyboard code defines returned by input functions
+KEY_DOWN     = chr(80)
+KEY_ESCAPE   = chr(27)
+KEY_ENTER    = chr(13)
+KEY_TAB      = chr(9)
+KEY_LEFT     = chr(75)
+KEY_RIGHT    = chr(77)
+
+maxSlide     = 10
+
+
+def drawSlide(i):
+  writeln("|CL")
+  fn = "/mystic/themes/default/text/ataot/ansi-pg"+str(i)
+  menucmd("GD",fn+".ans")
+  drawFooter()
+
+def drawFooter():
+  if i < 1:
+    lt = "  "
+  else:
+    lt = "|12<-"
+
+  if i > maxSlide-1:
+    rt = "  "
+  else:
+    rt = "|12->"
+
+  #gotoxy(1,25); write("|[K")
+  gotoxy(29,25); write(lt+"|15 :: pg "+str(i+1)+" of "+str(maxSlide+1)+" :: "+rt); gotoxy(1,1)
+
+i = 0
+finished = "false"
+
+def main():
+  global finished
+  global i
+  while finished != "true":
+    drawSlide(i)
+    char, extended = getkey();
+
+    if extended:
+      if char == KEY_LEFT:
+        if i > 0:
+          i = i - 1
+      if char == KEY_RIGHT:
+        if i < maxSlide:
+          i = i + 1
+    else:
+      if char == KEY_ESCAPE:        
+        finished = "true"
+
+main()
+gotoxy(1,25); write("|CL")
